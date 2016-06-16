@@ -21,7 +21,7 @@ public class Solution{
 					return "FALSE";
 				}
 			}
-
+			return (check(substring));
 		}
 	}
 }
